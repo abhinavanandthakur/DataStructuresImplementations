@@ -1,7 +1,0 @@
-
-//preorder
-
-void(NODEPTR tree){
-if(tree!=NULL){
-
-}
